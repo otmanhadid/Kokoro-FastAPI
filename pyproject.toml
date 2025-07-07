@@ -44,10 +44,10 @@ dependencies = [
 
 [project.optional-dependencies]
 gpu = [
-    "torch = \"^2.4.1\"",
+    "torch = \"2.4.1\"",
 ]
 cpu = [
-    "torch = \"^2.4.1\"",
+    "torch = \"2.4.1\"",
 ]
 test = [
     "pytest==8.3.5",
