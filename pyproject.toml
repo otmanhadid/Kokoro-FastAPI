@@ -62,7 +62,7 @@ test = [
 name = "kokoro-fastapi"
 version = "0.3.0"
 description = "FastAPI TTS Service"
-authors = ["Your Name <you@example.com>"]
+authors = ["othmanebenhdid@gmail.com"]
 license = "MIT"
 readme = "README.md"
 
